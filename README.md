@@ -12,7 +12,6 @@ Feature list:
 
 ### Installation
 
-### Installation
 
 1. $ [sudo] pip install virtualenv
 2. $ [sudo] virtualenv attendance-system
